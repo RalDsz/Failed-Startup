@@ -1,0 +1,22 @@
+2025/11/06-23:51:48.513 4784 Reusing MANIFEST D:\D4RS_Projects\eminem\_IGNORE_abfrl-mvp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-23:51:48.513 4784 Recovering log #103
+2025/11/06-23:51:48.522 4784 Reusing old log D:\D4RS_Projects\eminem\_IGNORE_abfrl-mvp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000103.log 
+2025/11/06-23:51:49.539 61bc Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-23:52:44.228 620c Level-0 table #108: started
+2025/11/06-23:52:44.264 620c Level-0 table #108: 1552435 bytes OK
+2025/11/06-23:52:44.266 620c Delete type=0 #103
+2025/11/06-23:52:46.299 61bc Compacting 1@1 + 1@2 files
+2025/11/06-23:52:46.395 61bc Generated table #109@1: 55697 keys, 2232181 bytes
+2025/11/06-23:52:46.405 61bc Generated table #110@1: 8698 keys, 149259 bytes
+2025/11/06-23:52:46.405 61bc Compacted 1@1 + 1@2 files => 2381440 bytes
+2025/11/06-23:52:46.406 61bc compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/11/06-23:52:46.407 61bc Delete type=2 #105
+2025/11/06-23:52:46.407 61bc Delete type=2 #108
+2025/11/06-23:53:48.899 61bc Level-0 table #112: started
+2025/11/06-23:53:48.929 61bc Level-0 table #112: 2039658 bytes OK
+2025/11/06-23:53:48.930 61bc Delete type=0 #107
+2025/11/06-23:53:55.981 4784 Compacting 1@1 + 2@2 files
+2025/11/06-23:53:56.078 4784 Generated table #113@1: 54580 keys, 2239429 bytes
+2025/11/06-23:53:56.097 4784 Generated table #114@1: 13766 keys, 388176 bytes
+2025/11/06-23:53:56.097 4784 Compacted 1@1 + 2@2 files => 2627605 bytes
+2025/11/06-23:53:56.098 4784 compacted to: files[ 0 0 2 0 0 0 0 ]

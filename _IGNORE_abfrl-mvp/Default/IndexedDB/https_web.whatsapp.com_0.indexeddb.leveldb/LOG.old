@@ -1,0 +1,31 @@
+2025/11/06-23:39:29.997 7458 Reusing MANIFEST D:\D4RS_Projects\eminem\_IGNORE_abfrl-mvp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-23:39:29.997 7458 Recovering log #93
+2025/11/06-23:39:30.013 7458 Reusing old log D:\D4RS_Projects\eminem\_IGNORE_abfrl-mvp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000093.log 
+2025/11/06-23:39:31.018 7458 Level-0 table #98: started
+2025/11/06-23:39:31.026 7458 Level-0 table #98: 576503 bytes OK
+2025/11/06-23:39:31.026 7458 Delete type=0 #93
+2025/11/06-23:39:31.027 7458 Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-23:39:32.172 3ec Compacting 1@1 + 1@2 files
+2025/11/06-23:39:32.213 3ec Generated table #99@1: 49001 keys, 1809627 bytes
+2025/11/06-23:39:32.214 3ec Compacted 1@1 + 1@2 files => 1809627 bytes
+2025/11/06-23:39:32.214 3ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-23:39:32.214 3ec Delete type=2 #95
+2025/11/06-23:39:32.214 3ec Delete type=2 #98
+2025/11/06-23:41:59.495 3ec Level-0 table #101: started
+2025/11/06-23:41:59.526 3ec Level-0 table #101: 1363883 bytes OK
+2025/11/06-23:41:59.528 3ec Delete type=0 #97
+2025/11/06-23:42:00.217 7458 Compacting 1@1 + 1@2 files
+2025/11/06-23:42:00.302 7458 Generated table #102@1: 54986 keys, 2014389 bytes
+2025/11/06-23:42:00.303 7458 Compacted 1@1 + 1@2 files => 2014389 bytes
+2025/11/06-23:42:00.304 7458 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-23:42:00.304 7458 Delete type=2 #99
+2025/11/06-23:42:00.304 7458 Delete type=2 #101
+2025/11/06-23:45:01.503 3ec Level-0 table #104: started
+2025/11/06-23:45:01.529 3ec Level-0 table #104: 1497726 bytes OK
+2025/11/06-23:45:01.531 3ec Delete type=0 #100
+2025/11/06-23:45:03.153 741c Compacting 1@1 + 1@2 files
+2025/11/06-23:45:03.250 741c Generated table #105@1: 59509 keys, 2186607 bytes
+2025/11/06-23:45:03.250 741c Compacted 1@1 + 1@2 files => 2186607 bytes
+2025/11/06-23:45:03.250 741c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-23:45:03.251 741c Delete type=2 #102
+2025/11/06-23:45:03.251 741c Delete type=2 #104
